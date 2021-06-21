@@ -13,4 +13,8 @@ public class Main {
     public static void printHello(){
         System.out.println("Hello !");
     }
+
+    public static void printHello2(){
+        System.out.println("Hello !");
+    }
 }
